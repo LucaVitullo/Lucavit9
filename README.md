@@ -2,6 +2,7 @@
 
 
 
-- 🌱 I’m currently learning: Html, Css, Javascript, Bootstrap, Sass, VueJs
+- 🌱 I’m currently learning: Html, Css, Javascript, Bootstrap, Sass, VueJs, PHP, Laravel
+- 
 
 
