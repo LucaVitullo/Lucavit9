@@ -2,8 +2,8 @@
 
 
 Hi there! 
-110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif
  I'm luca
+ https://giphy.com/explore/programmer
 
  
 Technology Stacks 🚀🌕
