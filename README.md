@@ -13,3 +13,21 @@
 
 - Reach me out over here **lucavitullo98gmail.com** 📫
 <hr>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="right"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a>  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/9e1ef972c8bb947e24b388a82b6a78243f6f9149/icons/CSS.svg" alt="css3" width="40" height="40"/> </a>  
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" alt="sass" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Light.svg" alt="vuejs" width="40" height="40"/> </a> 
+  <a href="https://www.https://node.js.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Light.svg" alt="vscode" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Light.svg" alt="photoshop" width="40" height="40"/> </a> 
+</p>
+<hr>
+
+
+          
