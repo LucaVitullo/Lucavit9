@@ -25,7 +25,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Light.svg" alt="vuejs" width="40" height="40"/> </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Light.svg" alt="vscode" width="40" height="40"/> </a> 
   <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Light.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="48"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="40" height="40"/> </a>
   
 </p>
 <hr>
